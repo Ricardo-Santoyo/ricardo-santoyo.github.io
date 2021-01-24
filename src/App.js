@@ -1,10 +1,13 @@
 import './App.css';
 import React from 'react';
-import { HashRouter, Switch, Route } from 'react-router-dom';
+import { HashRouter, Switch } from 'react-router-dom';
+import Navbar from './components/Navbar';
 
 function App() {
   return (
     <HashRouter basename="/">
+      <Navbar />
+
       <Switch>
       </Switch>
     </HashRouter>
