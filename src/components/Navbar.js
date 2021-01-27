@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-function Navbar(props) {
+function Navbar() {
   return (
     <nav>
       <ul className="navlinks">
@@ -9,8 +9,8 @@ function Navbar(props) {
           <li>Home</li>
         </Link>
 
-        <Link to="/projects" replace>
-          <li>Projects</li>
+        <Link to="/resume" replace>
+          <li>Resume</li>
         </Link>
 
         <Link to="/contact" replace>
