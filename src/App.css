@@ -209,7 +209,8 @@ Nav {
 }
 
 #contactmeLink button,
-#sendMessageButton {
+#sendMessageButton,
+#resume a {
   transition: all ease .3s;
   outline: none;
   cursor: pointer;
@@ -222,7 +223,8 @@ Nav {
 }
 
 #contactmeLink button:hover,
-#sendMessageButton:hover {
+#sendMessageButton:hover,
+#resume a:hover {
   transform: scale(1.1);
 }
 
@@ -360,6 +362,22 @@ Nav {
 #success svg {
   max-width: 50px;
   color: green;
+}
+
+#resume {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#resume img {
+  width: 95vw;
+  max-width: 700px;
+}
+
+#resume a {
+  text-decoration: none;
+  margin: 40px 0;
 }
 
 @media (max-width:1024px) {
