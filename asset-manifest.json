@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3d0d3605.chunk.css",
+    "main.js": "/static/js/main.2a2e9a53.chunk.js",
+    "main.js.map": "/static/js/main.2a2e9a53.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.554a10da.js",
+    "runtime-main.js.map": "/static/js/runtime-main.554a10da.js.map",
+    "static/js/2.ffec35cd.chunk.js": "/static/js/2.ffec35cd.chunk.js",
+    "static/js/2.ffec35cd.chunk.js.map": "/static/js/2.ffec35cd.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.3d0d3605.chunk.css.map": "/static/css/main.3d0d3605.chunk.css.map",
+    "static/js/2.ffec35cd.chunk.js.LICENSE.txt": "/static/js/2.ffec35cd.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/weatherapp.5ec7aea7.gif",
+    "static/media/battleship.3e32f7bb.png": "/static/media/battleship.3e32f7bb.png",
+    "static/media/calculator.b42e5e9f.png": "/static/media/calculator.b42e5e9f.png",
+    "static/media/cardboardluxury.5ac00d0d.png": "/static/media/cardboardluxury.5ac00d0d.png",
+    "static/media/check.5dcf9568.svg": "/static/media/check.5dcf9568.svg",
+    "static/media/connectu.e446c17e.png": "/static/media/connectu.e446c17e.png",
+    "static/media/github.e2f07326.svg": "/static/media/github.e2f07326.svg",
+    "static/media/linkedin.f4041044.svg": "/static/media/linkedin.f4041044.svg",
+    "static/media/mail.80b23b18.svg": "/static/media/mail.80b23b18.svg",
+    "static/media/memorycard.99ff6ba0.png": "/static/media/memorycard.99ff6ba0.png",
+    "static/media/resume.078a76eb.png": "/static/media/resume.078a76eb.png",
+    "static/media/resume.7ad050e0.pdf": "/static/media/resume.7ad050e0.pdf",
+    "static/media/weatherapp.b958039b.png": "/static/media/weatherapp.b958039b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.554a10da.js",
+    "static/js/2.ffec35cd.chunk.js",
+    "static/css/main.3d0d3605.chunk.css",
+    "static/js/main.2a2e9a53.chunk.js"
+  ]
+}
