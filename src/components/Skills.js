@@ -10,6 +10,8 @@ function Skills() {
         <p>JavaScript</p>
         <p>React</p>
         <p>Jest</p>
+        <p>C#</p>
+        <p>.NET</p>
       </div>
       <div className="skillsColumn">
         <h2>Back-End</h2>
@@ -17,11 +19,14 @@ function Skills() {
         <p>Ruby On Rails</p>
         <p>RSpec</p>
         <p>SQL</p>
+        <p>PostgreSQL</p>
       </div>
       <div className="skillsColumn">
         <h2>Other</h2>
+        <p>Linux</p>
         <p>Git</p>
         <p>GitHub</p>
+        <p>Visual Studio Code</p>
         <p>NPM</p>
         <p>WebPack</p>
         <p>Heroku</p>
